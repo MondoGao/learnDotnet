@@ -1,0 +1,5 @@
+namespace learnDotnet {
+    class View {
+
+    }
+}
